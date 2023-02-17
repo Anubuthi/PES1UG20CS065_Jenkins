@@ -1,8 +1,9 @@
 #include<iostream>
-using namespace std ;
+using namespace std;
 
-void main()
+int main()
 {
   cout<<"EXECUTED IN TASK 5 ";
+  return 0;
  
 }
